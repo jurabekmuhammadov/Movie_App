@@ -20,13 +20,13 @@ Movie App is a sleek and responsive movie discovery app built with **React.js**,
 
 ## 🚀 Getting Started
 
-Follow these steps to run Moodflix locally on your machine.
+Follow these steps to run Movie App locally on your machine.
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/moodflix.git
-cd moodflix
+git clone https://github.com/jurabekmuhammadov/Movie_App.git
+cd Movie_App
 ```
 
 ### 2. Install dependencies
